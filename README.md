@@ -1,2 +1,2 @@
 # Restaurant
-Restaurant website with HTML &amp; CSS
+Restaurant website with HTML and CSS
